@@ -1,0 +1,15 @@
+EVERYTHING IS WORKING INCLUDING THE WEBSITE
+
+customer username:
+
+customer
+
+password: customer123
+
+staff username:
+
+staff
+
+password: staff123
+
+just load it into index.php and go frmo there.

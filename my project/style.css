@@ -1,0 +1,88 @@
+
+body,html{
+  height:100%;
+  background-image: url("background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.searchMenu{
+
+            /* optional, center the image */
+padding-top:50px;
+padding-bottom: 100px;
+margin-bottom:300px;
+
+
+}
+.carousel-inner {
+  width: 700px;
+	height: 300px;
+  margin: auto;
+  overflow: hidden;
+	border-color:black;
+	border-style: solid;
+}
+ .background{
+   /* The image used */
+
+
+
+}
+
+
+.jumbotron{
+  height: auto;
+  margin:auto;
+
+
+
+}
+
+.social a{
+  font-size: 4.5em;
+  padding:3rem;
+}
+
+.fa-facebook { color: #3b5998;
+}
+.fa-twitter { color:#00aced;}
+.fa-google-plus-g{
+  color: #dd4b39;
+}
+.fa-instagram{color:#517fa8;}
+.fa-youtube{
+  color:#bb0000;
+}
+
+
+.fa-facebook:hover, .fa-twitter:hover,
+.fa-instagram:hover , .fa-youtube:hover { color:#d5d5d5;}
+
+
+
+
+footer{ background-color: #3f3f3f;
+color:#d5d5d5;
+padding-top: 2rem;
+width:100%;
+margin:auto;
+}
+
+
+
+
+table.center {
+  width:70%;
+     margin-left:15%;
+     margin-right:15%;
+  }
+.red{
+  color:red;
+}
