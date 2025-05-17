@@ -7,4 +7,6 @@ Frontend: vanilla Javascript with CSS and some bootstrap.
 Backend: PHP.
 
 
+Database: MySQL
+
 Hosted: AWS.
